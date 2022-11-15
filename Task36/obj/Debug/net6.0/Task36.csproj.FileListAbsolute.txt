@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/bin/Debug/net6.0/Task36
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/bin/Debug/net6.0/Task36.deps.json
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/bin/Debug/net6.0/Task36.runtimeconfig.json
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/bin/Debug/net6.0/Task36.dll
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/bin/Debug/net6.0/Task36.pdb
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.AssemblyInfo.cs
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.dll
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/refint/Task36.dll
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.pdb
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/Task36.genruntimeconfig.cache
+/Users/kataryzova/Desktop/HOMEWORK5/Task36/obj/Debug/net6.0/ref/Task36.dll
